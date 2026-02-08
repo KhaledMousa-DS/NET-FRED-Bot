@@ -1,4 +1,5 @@
-# 🛡️ NET FRED - Advanced Cybersecurity AI Assistant
+# 🛡️ NET FRED Bot
+## Advanced Cybersecurity AI Assistant
 
 <div align="center">
 
